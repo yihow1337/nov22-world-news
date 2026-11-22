@@ -1,0 +1,12 @@
+# local render / run output
+out/
+out2/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local preview files (never part of the entry)
+preview*.png
+preview*.jpg
+*-preview.png
+*.preview.png
